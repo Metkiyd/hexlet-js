@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/Metkiyd/hexlet-js#readme",
   "dependencies": {
+    "type": "module",
     "lodash": "^4.17.21"
   }
 }
